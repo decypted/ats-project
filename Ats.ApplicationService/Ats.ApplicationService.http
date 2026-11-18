@@ -1,0 +1,6 @@
+@Ats.ApplicationService_HostAddress = http://localhost:5224
+
+GET {{Ats.ApplicationService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
